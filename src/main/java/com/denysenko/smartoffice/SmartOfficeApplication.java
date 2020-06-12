@@ -1,13 +1,13 @@
-package com.denysenko.gamification;
+package com.denysenko.smartoffice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GamificationApplication {
+public class SmartOfficeApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(GamificationApplication.class, args);
+        SpringApplication.run(SmartOfficeApplication.class, args);
     }
 
 }

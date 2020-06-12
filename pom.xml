@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.denysenko</groupId>
-    <artifactId>gamification</artifactId>
+    <artifactId>smartoffice</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>gamification</name>
+    <name>Smart Office</name>
     <description>Office gamification</description>
 
     <properties>
