@@ -9,9 +9,7 @@ public class UserAchievement {
 
     private User user;
     private Achievement achievement;
-    // 0-100
     private Integer status;
-    // status == 100
     private Boolean win;
 
 }
